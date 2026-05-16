@@ -26,5 +26,5 @@ ANSYS Static Structural
 | Equivalent Stress | Factor of Safety-Fatigue |
 | <img width="1551" height="228" alt="image" src="https://github.com/user-attachments/assets/93463935-e363-4007-ac1e-95e75218f60a" /> | <img width="1557" height="626" alt="image" src="https://github.com/user-attachments/assets/f8765132-39f6-451f-90b3-d9b4bbb4c852" /> |
 | Modal Frequencies | Deformation at resonant frequencies |
-| <img width="1556" height="843" alt="image" src="https://github.com/user-attachments/assets/6c1538f4-c115-42ca-bc18-2126756b51d7" /> | |
-| Harmonic Response | |
+| <img width="1556" height="843" alt="image" src="https://github.com/user-attachments/assets/6c1538f4-c115-42ca-bc18-2126756b51d7" /> | <img width="1067" height="804" alt="image" src="https://github.com/user-attachments/assets/41529de9-65e5-4fee-b7d9-cae09dabd998" /> |
+| Harmonic Response | Torsional Analysis |
